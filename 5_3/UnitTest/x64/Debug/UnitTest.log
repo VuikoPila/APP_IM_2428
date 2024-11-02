@@ -1,0 +1,3 @@
+﻿     Creating library C:\Users\suka\source\repos\5_3\x64\Debug\UnitTest.lib and object C:\Users\suka\source\repos\5_3\x64\Debug\UnitTest.exp
+UnitTest.obj : error LNK2019: unresolved external symbol "double __cdecl s(double)" (?s@@YANN@Z) referenced in function "public: void __cdecl UnitTest_5_3::SFunctionTests::TestHandlesGreaterOrEqualOne(void)" (?TestHandlesGreaterOrEqualOne@SFunctionTests@UnitTest_5_3@@QEAAXXZ)
+C:\Users\suka\source\repos\5_3\x64\Debug\UnitTest.dll : fatal error LNK1120: 1 unresolved externals
