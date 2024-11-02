@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+     Creating library C:\Users\suka\source\repos\5_4\x64\Debug\UnitTest1.lib and object C:\Users\suka\source\repos\5_4\x64\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: unresolved external symbol "double __cdecl S0(int,int)" (?S0@@YANHH@Z) referenced in function "public: void __cdecl UnitTest::UnitTest1::TestS0(void)" (?TestS0@UnitTest1@UnitTest@@QEAAXXZ)
+UnitTest1.obj : error LNK2019: unresolved external symbol "double __cdecl S1(int,int,int)" (?S1@@YANHHH@Z) referenced in function "public: void __cdecl UnitTest::UnitTest1::TestS1(void)" (?TestS1@UnitTest1@UnitTest@@QEAAXXZ)
+UnitTest1.obj : error LNK2019: unresolved external symbol "double __cdecl S2(int,int,int)" (?S2@@YANHHH@Z) referenced in function "public: void __cdecl UnitTest::UnitTest1::TestS2(void)" (?TestS2@UnitTest1@UnitTest@@QEAAXXZ)
+UnitTest1.obj : error LNK2019: unresolved external symbol "double __cdecl S3(int,int,int,double)" (?S3@@YANHHHN@Z) referenced in function "public: void __cdecl UnitTest::UnitTest1::TestS3(void)" (?TestS3@UnitTest1@UnitTest@@QEAAXXZ)
+UnitTest1.obj : error LNK2019: unresolved external symbol "double __cdecl S4(int,int,int,double)" (?S4@@YANHHHN@Z) referenced in function "public: void __cdecl UnitTest::UnitTest1::TestS4(void)" (?TestS4@UnitTest1@UnitTest@@QEAAXXZ)
+C:\Users\suka\source\repos\5_4\x64\Debug\UnitTest1.dll : fatal error LNK1120: 5 unresolved externals
